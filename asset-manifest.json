@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fluffy-spork/static/css/main.9f280494.chunk.css",
+    "main.js": "/fluffy-spork/static/js/main.64c8fbe9.chunk.js",
+    "main.js.map": "/fluffy-spork/static/js/main.64c8fbe9.chunk.js.map",
+    "runtime-main.js": "/fluffy-spork/static/js/runtime-main.ac0a68f1.js",
+    "runtime-main.js.map": "/fluffy-spork/static/js/runtime-main.ac0a68f1.js.map",
+    "static/js/2.106e10b2.chunk.js": "/fluffy-spork/static/js/2.106e10b2.chunk.js",
+    "static/js/2.106e10b2.chunk.js.map": "/fluffy-spork/static/js/2.106e10b2.chunk.js.map",
+    "index.html": "/fluffy-spork/index.html",
+    "static/css/main.9f280494.chunk.css.map": "/fluffy-spork/static/css/main.9f280494.chunk.css.map",
+    "static/js/2.106e10b2.chunk.js.LICENSE.txt": "/fluffy-spork/static/js/2.106e10b2.chunk.js.LICENSE.txt",
+    "static/media/avatar.37d93aaa.jpg": "/fluffy-spork/static/media/avatar.37d93aaa.jpg",
+    "static/media/christian.36a49d2f.jpg": "/fluffy-spork/static/media/christian.36a49d2f.jpg",
+    "static/media/kendall.ab8e0d7e.jpg": "/fluffy-spork/static/media/kendall.ab8e0d7e.jpg",
+    "static/media/landing-bg.jpg": "/fluffy-spork/static/media/landing-bg.64d7ac30.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac0a68f1.js",
+    "static/js/2.106e10b2.chunk.js",
+    "static/css/main.9f280494.chunk.css",
+    "static/js/main.64c8fbe9.chunk.js"
+  ]
+}
