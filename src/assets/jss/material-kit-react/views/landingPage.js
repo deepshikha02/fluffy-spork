@@ -14,6 +14,10 @@ const landingPageStyle = {
     minHeight: "32px",
     color: "#FFFFFF",
     textDecoration: "none",
+    fontSize: "2.75rem",
+    "@media (min-width: 768px)": {
+      fontSize: "3.3125rem",
+    },
   },
   subtitle: {
     fontSize: "1.313rem",
